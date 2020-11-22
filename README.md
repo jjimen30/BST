@@ -1,4 +1,4 @@
 # BST
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/cferdinandi/atomic/dist/atomic.js"></script>
+<script src="https://cdn.jsdelivr.net/jjimen30/BST"></script>
